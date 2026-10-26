@@ -5,3 +5,4 @@ basic experimental version, this is a all in one wine bottle, basically the same
 just the base emulator, you must supply your own legal game files
 
 tested on m3 macbook air, im unable to test on intel based mac.
+minimum macos 15.0, it is a requirement
