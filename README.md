@@ -4,7 +4,7 @@ basic experimental version, this is a all in one wine bottle, basically the same
 
 just the base emulator, you must supply your own legal game files
 
-tested on m3 macbook air running 15.1 , im unable to test on intel based mac.
+tested on m3 macbook air running 15.1 , im unable to test on intel based mac, unsure if its even compatible
 
 
 Also, please consider checking out my console style game launcher for mac os! https://github.com/tonedashmacos/tonedash
